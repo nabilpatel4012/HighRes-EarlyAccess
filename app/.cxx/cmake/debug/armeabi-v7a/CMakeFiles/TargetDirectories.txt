@@ -1,0 +1,3 @@
+C:/Users/nabil/AndroidStudioProjects/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/SuperResolution.dir
+C:/Users/nabil/AndroidStudioProjects/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/nabil/AndroidStudioProjects/android/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

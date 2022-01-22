@@ -1,0 +1,1 @@
+C:\Users\nabil\AndroidStudioProjects\android\app\src\main\cc\CMakeLists.txt

@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe",
+      "--build",
+      "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\Debug\\1c6d975f\\armeabi-v7a",
+      "--target",
+      "clean"
+    ]
+  ],
+  "libraries": {
+    "lib_tensorflowlite_gpu-Debug-armeabi-v7a": {
+      "artifactName": "lib_tensorflowlite_gpu",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite-gpu\\jni\\armeabi-v7a\\libtensorflowlite_gpu_jni.so",
+      "runtimeFiles": []
+    },
+    "lib_tensorflowlite-Debug-armeabi-v7a": {
+      "artifactName": "lib_tensorflowlite",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite\\jni\\armeabi-v7a\\libtensorflowlite_jni.so",
+      "runtimeFiles": []
+    },
+    "SuperResolution-Debug-armeabi-v7a": {
+      "artifactName": "SuperResolution",
+      "buildCommandComponents": [
+        "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe",
+        "--build",
+        "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\Debug\\1c6d975f\\armeabi-v7a",
+        "--target",
+        "SuperResolution"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\build\\intermediates\\cxx\\Debug\\1c6d975f\\obj\\armeabi-v7a\\libSuperResolution.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "lib_tensorflowlite_gpu-Debug-arm64-v8a": {
+      "artifactName": "lib_tensorflowlite_gpu",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite-gpu\\jni\\arm64-v8a\\libtensorflowlite_gpu_jni.so"
+    },
+    "SuperResolution-Debug-arm64-v8a": {
+      "artifactName": "SuperResolution",
+      "buildCommand": "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\cmake\\debug\\arm64-v8a --target SuperResolution",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libSuperResolution.so"
+    },
+    "lib_tensorflowlite-Debug-arm64-v8a": {
+      "artifactName": "lib_tensorflowlite",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite\\jni\\arm64-v8a\\libtensorflowlite_jni.so"
+    }
+  }
+}

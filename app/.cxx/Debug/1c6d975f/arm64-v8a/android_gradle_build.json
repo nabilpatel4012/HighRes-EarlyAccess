@@ -1,0 +1,65 @@
+{
+  "buildFiles": [
+    "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe",
+      "--build",
+      "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\Debug\\1c6d975f\\arm64-v8a",
+      "--target",
+      "clean"
+    ]
+  ],
+  "libraries": {
+    "SuperResolution-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe",
+        "--build",
+        "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\Debug\\1c6d975f\\arm64-v8a",
+        "--target",
+        "SuperResolution"
+      ],
+      "buildType": "debug",
+      "toolchain": "3022556925",
+      "abi": "arm64-v8a",
+      "artifactName": "SuperResolution",
+      "files": [
+        {
+          "src": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\SuperResolution_jni.cpp",
+          "flags": "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperResolution_EXPORTS -IC:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite\\headers -IC:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite-gpu\\headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=gnu++14 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++14  -c ",
+          "workingDirectory": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\Debug\\1c6d975f\\arm64-v8a"
+        },
+        {
+          "src": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\SuperResolution.cpp",
+          "flags": "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperResolution_EXPORTS -IC:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite\\headers -IC:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite-gpu\\headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=gnu++14 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++14  -c ",
+          "workingDirectory": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\.cxx\\Debug\\1c6d975f\\arm64-v8a"
+        }
+      ],
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\build\\intermediates\\cxx\\Debug\\1c6d975f\\obj\\arm64-v8a\\libSuperResolution.so"
+    },
+    "lib_tensorflowlite-Debug-arm64-v8a": {
+      "buildType": "debug",
+      "toolchain": "3022556925",
+      "abi": "arm64-v8a",
+      "artifactName": "lib_tensorflowlite",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite\\jni\\arm64-v8a\\libtensorflowlite_jni.so"
+    },
+    "lib_tensorflowlite_gpu-Debug-arm64-v8a": {
+      "buildType": "debug",
+      "toolchain": "3022556925",
+      "abi": "arm64-v8a",
+      "artifactName": "lib_tensorflowlite_gpu",
+      "output": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\..\\..\\..\\..\\libraries\\tensorflowlite-gpu\\jni\\arm64-v8a\\libtensorflowlite_gpu_jni.so"
+    }
+  },
+  "toolchains": {
+    "3022556925": {
+      "cCompilerExecutable": "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

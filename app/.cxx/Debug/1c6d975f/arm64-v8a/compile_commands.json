@@ -1,0 +1,13 @@
+[
+{
+  "directory": "C:/Users/nabil/AndroidStudioProjects/android/app/.cxx/Debug/1c6d975f/arm64-v8a",
+  "command": "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperResolution_EXPORTS -IC:/Users/nabil/AndroidStudioProjects/android/app/src/main/cc/../../../../libraries/tensorflowlite/headers -IC:/Users/nabil/AndroidStudioProjects/android/app/src/main/cc/../../../../libraries/tensorflowlite-gpu/headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=gnu++14 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++14 -o CMakeFiles\\SuperResolution.dir\\SuperResolution_jni.cpp.o -c C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\SuperResolution_jni.cpp",
+  "file": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\SuperResolution_jni.cpp"
+},
+
+{
+  "directory": "C:/Users/nabil/AndroidStudioProjects/android/app/.cxx/Debug/1c6d975f/arm64-v8a",
+  "command": "C:\\Users\\nabil\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/nabil/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -DSuperResolution_EXPORTS -IC:/Users/nabil/AndroidStudioProjects/android/app/src/main/cc/../../../../libraries/tensorflowlite/headers -IC:/Users/nabil/AndroidStudioProjects/android/app/src/main/cc/../../../../libraries/tensorflowlite-gpu/headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=gnu++14 -O0 -fno-limit-debug-info  -fPIC   -std=gnu++14 -o CMakeFiles\\SuperResolution.dir\\SuperResolution.cpp.o -c C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\SuperResolution.cpp",
+  "file": "C:\\Users\\nabil\\AndroidStudioProjects\\android\\app\\src\\main\\cc\\SuperResolution.cpp"
+}
+]
