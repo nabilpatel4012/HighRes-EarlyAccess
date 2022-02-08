@@ -1,4 +1,4 @@
-# Super Resolution Android sample.
+# HighRes-Android
 
 The task of recovering a high resolution (HR) image from its low resolution
 counterpart is commonly referred to as Single Image Super Resolution (SISR).
